@@ -1,7 +1,8 @@
 # PasteApp: A notes website
 
 
-## 🌎 Deployemt : [Visit PasteApp]([https://pastenote.vercel.app/])
+## 🌎 Deployemt : [Visit PasteNote](https://pastenote.vercel.app/)
+
 
 (View function is not working as database is stored on local storage ,once other db(MongoDB) is setup changes will be updated.
 
