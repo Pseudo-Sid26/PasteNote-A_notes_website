@@ -1,6 +1,10 @@
 # PasteApp: A notes website
 
 
+## 🌎 Deployemt : [Visit PasteApp]([https://pastenote.vercel.app/])
+
+(View function is not working as database is stored on local storage ,once other db(MongoDB) is setup changes will be updated.
+
 ## 🚀 Features
 - ⚡ **Vite**: Ultra-fast development and build tooling.
 - ⚛️ **React**: Latest version for building modern UI components.
